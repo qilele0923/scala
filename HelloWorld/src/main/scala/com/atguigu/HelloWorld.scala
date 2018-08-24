@@ -5,7 +5,8 @@ package com.atguigu
   */
 object HelloWorld {
   def main(args: Array[String]): Unit = {
-    printf("hello world")
+    println("hello world")
+
   }
 
 }
